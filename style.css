@@ -1,0 +1,39 @@
+.background1 {
+    background-color: #1E2937;
+}
+.main {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-left: 16px;
+    margin-top: 10px;
+}
+
+.link {
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 60px;
+}
