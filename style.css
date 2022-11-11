@@ -126,7 +126,11 @@ a {
 .thor {
     font-size: 24px;
     font-weight: bolder;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+
+.thor-container {
     display: flex;
     justify-content: flex-end;
-    margin-bottom: 50px;
 }
